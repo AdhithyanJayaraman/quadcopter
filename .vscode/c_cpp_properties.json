@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include",
+        "/home/amal/catkin_ws/src/joy_turtle/include",
+        "/home/amal/catkin_ws/src/quad/include",
+        "/home/amal/catkin_ws/src/quad_test/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
