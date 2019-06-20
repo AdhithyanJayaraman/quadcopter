@@ -25,12 +25,12 @@ http://ardupilot.org/copter/_images/motororder-quad-x-2d.png
 
 ## ROS Log
 * tf seems like something we can use for following
-TODO: ROS on raspberry pi using ubuntu for arm servers
+* TODO: ROS on raspberry pi using ubuntu for arm servers
 
 ## Dronekit Log
 * First Flight test caused drifting and altitute errors due to bad GPS
 * Second Flight test extremely stable flight and altitude obtained after GPS 3D Fix
-TODO: Communication between drones
+* TODO: Communication between drones
 
 ## MavROS Directory
 It contains codes run using mavros
