@@ -4,8 +4,7 @@
 2. Motor sequence of 1,2,3,4 is different from that of A,B,C,D in the sequence test
     * The sequence A,B,C,D corresponds to motors 1,4,3,2 respectively.
 3. Check motor rotation is as depicted in
-http://ardupilot.org/copter/_images/motororder-quad-x-2d.png
-4. **Pre Arms Checks Must be enabled** if Flying in Auto Modes
+http://ardupilot.org/
 5. Set RTL(Return to Launch) Altitute as necessary default is 15m
 6. First Test should be in Stabilize ie: Full mannual control
 7. Land mode prevents disarm use RC to switch back to Stabilize
